@@ -1,0 +1,11 @@
+Book ID,Title,Author,Checkout Date,Checked Out By
+B1001,Harry Potter and the Philosopher's Stone,J.K. Rowling,,
+B1002,Pride and Prejudice,Jane Austen,,
+B1003,The Lord of the Rings,J. R. R. Tolkien,2024-12-25,Henry
+B1004,"The Lion, The Witch, and the Wardrobe",C.S. Lewis,,
+B1005,Dune,Frank Herbert,,
+B1006,The Lightning Thief,Rick Riordan,,
+B1007,Macbeth,William Shakespeare,,
+B1008,Dracula,Bram Stoker,,
+B1009,The Odyssey,Homer,,
+B2001,A Game of Thrones,George R. R. Martin,,
